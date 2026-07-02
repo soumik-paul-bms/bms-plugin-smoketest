@@ -1,0 +1,13 @@
+{
+  "name": "bms-smoketest",
+  "owner": { "name": "BMS Platform", "email": "platform@bookmyshow.com" },
+  "metadata": { "description": "Smoke test: verify a GitHub-hosted plugin marketplace loads in Claude Code." },
+  "plugins": [
+    {
+      "name": "hello-bms",
+      "source": "./plugins/hello-bms",
+      "description": "Smoke-test plugin for the GitHub -> Claude marketplace flow.",
+      "version": "1.0.0"
+    } 
+  ]
+}
