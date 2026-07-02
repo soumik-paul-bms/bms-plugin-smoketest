@@ -1,0 +1,5 @@
+{
+  "name": "hello-bms",
+  "description": "Smoke-test plugin for the GitHub -> Claude marketplace flow.",
+  "version": "1.0.0"
+}
